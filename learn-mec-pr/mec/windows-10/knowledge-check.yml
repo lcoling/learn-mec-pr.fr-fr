@@ -1,0 +1,152 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.windows-10.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: Review on what you've learned
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+quiz:
+  title: Knowledge check
+  questions:
+    - content: Le menu Démarrer ne peut pas être personnalisé par les enseignants et
+        élèves
+      choices:
+        - content: Vrai
+          isCorrect: false
+          explanation: Incorrect
+        - content: Faux
+          isCorrect: true
+          explanation: Correct
+    - content: Comment un utilisateur peut-il accéder aux Options d'ergonomie ?
+        (cochez toutes les bonnes réponses)
+      choices:
+        - content: En recherchant Ergonomie dans la barre de recherche de la barre des
+            tâches
+          isCorrect: false
+          explanation: Incorrect
+        - content: En maintenant la touche Windows + U
+          isCorrect: false
+          explanation: Incorrect
+        - content: En ouvrant le Centre de notifications > Tous les paramètres > Options
+            d'ergonomie
+          isCorrect: true
+          explanation: Correct
+        - content: En cliquant sur le logo Windows et en recherchant &quot;Options
+            d'ergonomie&quot; dans la liste alphabétique
+          isCorrect: false
+          explanation: Incorrect
+    - content: Sélectionnez les applications compatibles avec l'encre digitale
+        (plusieurs choix possibles)
+      choices:
+        - content: Microsoft Whiteboard
+          isCorrect: false
+          explanation: Incorrect
+        - content: L'application OneNote
+          isCorrect: false
+          explanation: Incorrect
+        - content: OneNote Online
+          isCorrect: false
+          explanation: Incorrect
+        - content: Ink Workspace
+          isCorrect: true
+          explanation: Correct
+    - content: La nouvelle version de Microsoft Edge utilise les mêmes technologies
+        que Google Chrome
+      choices:
+        - content: Vrai
+          isCorrect: true
+          explanation: Correct
+        - content: Faux
+          isCorrect: false
+          explanation: Incorrect
+    - content: Les applications Office 365 en ligne sont disponibles gratuitement pour
+        les enseignants et élèves d'établissements éligibles
+      choices:
+        - content: Vrai
+          isCorrect: true
+          explanation: Correct
+        - content: Faux
+          isCorrect: false
+          explanation: Incorrect
+    - content: Quel logiciel peuvent utiliser les élèves et enseignants pour créer et
+        éditer des vidéos ?
+      choices:
+        - content: Office 365
+          isCorrect: false
+          explanation: Incorrect
+        - content: Microsoft Photos
+          isCorrect: true
+          explanation: Correct
+        - content: Lecteur immersif
+          isCorrect: false
+          explanation: Incorrect
+        - content: Stream
+          isCorrect: false
+          explanation: Incorrect
+    - content: Quel outil peut être utilisé conjointement avec Microsoft Forms pour
+        créer une évaluation sécurisée ?
+      choices:
+        - content: Microsoft Photos
+          isCorrect: false
+          explanation: Incorrect
+        - content: La nouvelle version de Microsoft Edge
+          isCorrect: false
+          explanation: Incorrect
+        - content: Take a Test
+          isCorrect: true
+          explanation: Correct
+        - content: Office 365
+          isCorrect: false
+          explanation: Incorrect
+    - content: Sélectionnez les caractéristiques qu'Intune pour l'éducation possède
+      choices:
+        - content: Gérer les ordinateurs portables, fixes et appareils mobiles utilisés
+            par les étudiants pour accéder aux données de l'école
+          isCorrect: false
+          explanation: Incorrect
+        - content: Configurer et choisir les applications utilisées par les étudiants en
+            cours
+          isCorrect: false
+          explanation: Incorrect
+        - content: Contrôler comment les élèves et enseignants accèdent aux informations
+            de la classe et les partagent
+          isCorrect: false
+          explanation: Incorrect
+        - content: Soumettre les appareils et applications aux règles de sécurité de
+            l'établissement
+          isCorrect: false
+          explanation: Incorrect
+        - content: Toutes les réponses ci-dessus
+          isCorrect: true
+          explanation: Correct
+    - content: Quelles solutions permettent aux étudiants et professeurs de se
+        connecter et d'apprendre dans un environnement d'apprentissage à
+        distance ? (cochez toutes les bonnes réponses)
+      choices:
+        - content: Teams
+          isCorrect: false
+          explanation: Incorrect
+        - content: OneNote Class Notebook
+          isCorrect: true
+          explanation: Correct
+        - content: Microsoft Whiteboard
+          isCorrect: false
+          explanation: Incorrect
+        - content: Office 365
+          isCorrect: false
+          explanation: Incorrect
+    - content: Des appareils Windows 10 combinés avec Office 365 et des outils
+        d'apprentissage et d'accessibilité peuvent permettre aux élèves
+        d'accomplir plus.
+      choices:
+        - content: Vrai
+          isCorrect: true
+          explanation: Correct
+        - content: Faux
+          isCorrect: false
+          explanation: Incorrect

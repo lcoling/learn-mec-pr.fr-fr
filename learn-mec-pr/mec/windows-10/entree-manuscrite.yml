@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.windows-10.entree-manuscrite
+title: Entrée manuscrite avec Windows 10
+metadata:
+  title: Entrée manuscrite avec windows 10
+  description: Entrée manuscrite avec Windows 10
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/entree-manuscrite.md)]"

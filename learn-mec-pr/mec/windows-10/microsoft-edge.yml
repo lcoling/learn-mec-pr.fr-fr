@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.windows-10.microsoft-edge
+title: Utiliser la nouvelle version de Microsoft Edge pour collaborer,
+  rechercher et organiser du contenu
+metadata:
+  title: Utiliser la nouvelle version de Microsoft edge pour collaborer,
+    rechercher et organiser du contenu
+  description: Utiliser la nouvelle version de Microsoft Edge pour collaborer,
+    rechercher et organiser du contenu
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/microsoft-edge.md)]"

@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.windows-10.take-a-test
+title: Réaliser des évaluations à l’aide de Microsoft FORMS et Take a Test
+metadata:
+  title: Réaliser des évaluations à l’aide de Microsoft forms et take a test
+  description: Réaliser des évaluations à l’aide de Microsoft FORMS et Take a Test
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/take-a-test.md)]"

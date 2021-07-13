@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.windows-10.intune
+title: Paramétrer et gérer des appareils facilement et rapidement avec Intune
+  pour l’éducation
+metadata:
+  title: Paramétrer et gérer des appareils facilement et rapidement avec intune
+    pour l’éducation
+  description: Paramétrer et gérer des appareils facilement et rapidement avec
+    Intune pour l’éducation
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/intune.md)]"
