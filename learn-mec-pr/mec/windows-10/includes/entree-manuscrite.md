@@ -1,0 +1,7 @@
+
+
+Les enseignants et les élèves peuvent choisir comment ils veulent enseigner et apprendre grâce aux appareils tactiles Windows 10. L'association de Windows Ink avec un stylet permet à tout le monde d’interagir naturellement avec son ordinateur. Cette technologie permet de conserver le geste de l'écriture manuscrite ou du dessin avec des applications comme celles d'Office 365, <a href="https://www.onenote.com/signin?wdorigin=ondc" target="_blank">OneNote</a>, <a href="https://whiteboard.microsoft.com/" target="_blank">Whiteboard</a> ou de nombreuses autres applications tierces. Les enseignants et les étudiants peuvent également tirer parti de Windows <a href="https://support.microsoft.com/fr-fr/windows/utiliser-l-espace-de-travail-windows-ink-701b15d4-2dcc-1aec-cf2b-370c56e8baf4" target="_blank">Ink Workspace</a> intégré directement dans Windows 10.  
+
+Consultez les recherches du <a href="https://msdnshared.blob.core.windows.net/media/MSDNBlogsFS/prod.evol.blogs.msdn.com/CommunityServer.Blogs.Components.WeblogFiles/00/00/01/38/39/Docs/8540.MS-Oviatt-Paper-2014.pdf" target="_blank">Dr Sharon Oviatt</a>  pour en savoir plus sur le pouvoir de l’encre numérique.
+
+> [!VIDEO https://www.youtube.com/embed/KVpbnVDAKS0]
