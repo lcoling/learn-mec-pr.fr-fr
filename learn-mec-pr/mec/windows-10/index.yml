@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn.mec.windows-10
+title: Windows 10 pour l'éducation
+hidden: true
+metadata:
+  title: Windows 10 pour l'éducation
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+  ms.custom:
+    - Elevate student voice
+    - Education leadership and staff collaboration
+    - Computational Thinki
+  description: En savoir plus sur Windows 10
+abstract: |
+  Dans ce module, vous allez:  
+   - Comment utiliser Windows 10
+  - Comment faire des photos dans Windows 10
+summary: En savoir plus sur Windows 10
+prerequisites: |
+  - Connaissances informatiques générales
+iconUrl: /learn/achievements/windows-10.png
+levels:
+  - intermediate
+products:
+  - windows
+roles:
+  - k-12-educator
+units:
+  - learn.mec.windows-10.introduction
+  - learn.mec.windows-10.personnalisation-de-windows
+  - learn.mec.windows-10.accessibilite
+  - learn.mec.windows-10.entree-manuscrite
+  - learn.mec.windows-10.microsoft-edge
+  - learn.mec.windows-10.office-365
+  - learn.mec.windows-10.stem
+  - learn.mec.windows-10.take-a-test
+  - learn.mec.windows-10.intune
+  - learn.mec.windows-10.remote-work-with-windows-10
+  - learn.mec.windows-10.resume
+  - learn.mec.windows-10.knowledge-check
+  - learn.mec.windows-10.summary
+badge:
+  uid: learn.mec.windows-10.badge

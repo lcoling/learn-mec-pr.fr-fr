@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.windows-10.remote-work-with-windows-10
+title: Apprentissage à distance et Windows 10
+metadata:
+  title: Apprentissage à distance et windows 10
+  description: Apprentissage à distance et Windows 10
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/remote-work-with-windows-10.md)]"

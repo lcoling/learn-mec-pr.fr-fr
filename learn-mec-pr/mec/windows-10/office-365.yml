@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.windows-10.office-365
+title: Communiquer, collaborer et rester connecté avec Office 365
+metadata:
+  title: Communiquer, collaborer et rester connecté avec Office 365
+  description: Communiquer, collaborer et rester connecté avec Office 365
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/office-365.md)]"

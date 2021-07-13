@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.mec.windows-10.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary
+  ms.date: 07/12/2021
+  author: mec-sa
+  ms.author: abdewees
+  ms.topic: interactive-tutorial
+  ms.prod: office-365
+durationInMinutes: 1
+content: "[!include[](includes/summary.md)]"
